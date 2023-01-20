@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# cb-connect
+# cb-time
 
 A CyberBrokers utility library to convert time from Earth time to TPL time (both ways)
 
